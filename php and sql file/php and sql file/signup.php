@@ -13,7 +13,7 @@ if ($data !== null) {
     if ($key != "your_key" or trim($name) == "")
         die("access denied");
 
-    $con=mysqli_connect("localhost","root", "","restaurant_db");
+    $con=mysqli_connect("localhost", "id21742170_allam", "Zakaria1Allam@", "id21742170_zakdeliveryapp");
     // Check connection
     if (mysqli_connect_errno())
     {

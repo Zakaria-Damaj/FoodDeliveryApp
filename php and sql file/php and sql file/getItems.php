@@ -1,7 +1,7 @@
 <?php
 
 // Create connection
-$con = mysqli_connect("localhost", "root", "", "restaurant_db");
+$con = mysqli_connect("localhost", "id21742170_allam", "Zakaria1Allam@", "id21742170_zakdeliveryapp");
 
 // Check connection
 if (mysqli_connect_errno()) {

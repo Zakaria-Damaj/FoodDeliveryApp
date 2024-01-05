@@ -10,7 +10,7 @@ if ($data !== null) {
 
     // Additional validation or sanitization of input data is recommended before querying the database
 
-    $con=mysqli_connect("localhost","root","","restaurant_db");
+    $con=mysqli_connect("localhost", "id21742170_allam", "Zakaria1Allam@", "id21742170_zakdeliveryapp");
     // Check connection
     if (mysqli_connect_errno()) {
         echo "Failed to connect to MySQL: " . mysqli_connect_error();
